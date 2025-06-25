@@ -1,4 +1,4 @@
-```markdown
+
 # 📘 Automated Question Extraction from PDF Documents
 
 A Python tool to extract **Multiple Choice Questions (MCQs)** and **Descriptive Questions** from any **text-based PDF** using `PyPDF2` and `Regex`.
@@ -42,7 +42,6 @@ pdf-question-extractor/
 python3 --version
 ````
 
----
 
 ### 🛠 Installation Guide
 
